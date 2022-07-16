@@ -30,15 +30,7 @@
 
 ### 📺 YOUTUBE VIDEOS
 
-<!-- YOUTUBE:START -->
-- [Recent Upload](https://youtu.be/P0itaJunkqw)
-- [Learn to make hacking tools](https://youtu.be/WVXE-DM8UNs)
-- [Bad USB hacks computer in 40 seconds || Raspberry Pi-Pico](https://youtu.be/NZASumkG6M8)
-- [CRACK ANDROID PASSWORD IN SECONDS](https://youtu.be/CtaQTDfTqxA)
-- [FIND ANYONE ON SOCIAL MEDIA](https://youtu.be/Ktiy6bl_B9I)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/c/STRANGELEARNINGSs)
+➡️ [more videos...](https://www.youtube.com/channel/UCtWkUCSlc9x3fx_IllVu2dQ)
 
 ---
 
@@ -55,5 +47,5 @@
 
 
 
-[youtube]: https://www.youtube.com/c/STRANGELEARNINGSs
-[instagram]: https://www.instagram.com/strange_learnings_
+[youtube]: https://www.youtube.com/channel/UCtWkUCSlc9x3fx_IllVu2dQ
+[instagram]: https://www.instagram.com/m.chakradhar_reddy
