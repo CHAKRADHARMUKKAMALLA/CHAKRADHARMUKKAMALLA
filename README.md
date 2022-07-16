@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MrStrange | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MrStrange | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="anon_hide | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="anon_hide | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -30,7 +30,7 @@
 
 ### 📺 YOUTUBE VIDEOS
 
-➡️ [more videos...](https://www.youtube.com/channel/UCtWkUCSlc9x3fx_IllVu2dQ)
+➡️ [more videos on](https://www.youtube.com/channel/UCtWkUCSlc9x3fx_IllVu2dQ)
 
 ---
 
